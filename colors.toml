@@ -1,0 +1,42 @@
+# OmaPaper Dark: newsprint at night. Warm near-black paper, bone ink, graphite rules.
+# Same seven code inks as OmaPaper (light), lifted to ~7:1 contrast on the dark page.
+# Built alongside OmaPaper: tools live in github.com/wstough/omarchy-omapaper-theme.
+mode = "dark"
+
+# Accent: light graphite. Color is saved for meaning (errors, code).
+accent = "#A8A398"
+selection = "#3A3731"
+muted = "#7E796F"              # rules, comments, inactive things
+
+# Paper (dark)
+background = "#1A1917"
+dark_background = "#141311"
+darker_background = "#0F0E0D"
+lighter_background = "#24221F"
+
+# Ink (light)
+foreground = "#E4DFD3"         # bone
+dark_foreground = "#A39E93"    # bylines & captions
+light_foreground = "#CFC9BC"
+bright_foreground = "#F7F3EA"
+
+# Code & terminal colors: the same inks as the light theme, lifted for a dark page
+red = "#EA8794"        # crimson
+orange = "#E58E61"     # vermilion
+yellow = "#CF9B34"     # ochre
+green = "#4FB776"      # bottle green
+cyan = "#4BB2C0"       # petrol
+blue = "#81A5E1"       # cobalt
+magenta = "#D18CD4"    # violet
+brown = "#B08A63"      # umber
+
+bright_red = "#F0A7B1"
+bright_yellow = "#DCB568"
+bright_green = "#7DCA99"
+bright_cyan = "#79C6D0"
+bright_blue = "#A0BBE9"
+bright_magenta = "#DCA9DE"
+
+# Window borders: light graphite hairline on the focused window, a dim rule for the rest
+hyprland_active_border = "rgb(A8A398)"
+hyprland_inactive_border = "rgb(3D3A35)"
