@@ -17,7 +17,8 @@ omarchy theme install https://github.com/wstough/omarchy-omapaper-dark-theme
 
 Naturally dark art re-printed as halftone, pixel, grain and scratchboard-style negatives:
 Julia Margaret Cameron's portraits, Nadar, Doré's London, Piranesi, Trouvelot's eclipse and Saturn,
-Apollo 8's Earthrise, Muybridge, Haeckel, plus Omarchy's logo. See `CREDITS.md`.
+Apollo 8's Earthrise, Muybridge, Haeckel, two tintype-style wet-plate landscapes (W. H. Jackson,
+T. H. O'Sullivan), plus Omarchy's logo. See `CREDITS.md`.
 
 The window style (rounded corners, hairline borders, soft directional shadow) and fonts are
 described in the OmaPaper README; they apply to both themes.
