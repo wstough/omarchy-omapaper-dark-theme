@@ -220,7 +220,7 @@ border-width = 1
 # border-alpha applies to all three border states (they are mutually
 # exclusive in time).
 background       = "#1A1917"
-background-alpha = 0.8
+background-alpha = 0.35
 text             = "#E4DFD3"
 placeholder      = "#9f9c93"
 text-error       = "#EA8794"
