@@ -5,7 +5,9 @@ The night edition of [OmaPaper](https://github.com/wstough/omarchy-omapaper-them
 bone ink, graphite rules. Code and terminal colors are the same seven printing inks as the light
 theme (crimson, vermilion, ochre, bottle green, petrol, cobalt, violet), lifted to ~7:1 contrast.
 
-![OmaPaper Dark preview](preview.png)
+![OmaPaper Dark with windows](preview.png)
+
+![OmaPaper Dark desktop](screenshots/wallpaper.png)
 
 ## Install
 
